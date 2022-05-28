@@ -1,2 +1,3 @@
 # brimdata-container
-Dockerized zq cli
+
+Dockerized Brim Data CLI tools
